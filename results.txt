@@ -1,0 +1,50 @@
+Linear Regression:
+Mean Squared Error: 1.1874648731648023
+Root Mean Squared Error: 1.0897086184686264
+Mean Absolute Error: 0.4818642358376123
+--------------------------------------------
+Decision Tree Regressor:
+Mean Squared Error: 1.9091808407150217
+Root Mean Squared Error: 1.3817311028977461
+Mean Absolute Error: 0.6434139131664116
+--------------------------------------------
+Random Forest Regressor:
+Mean Squared Error: 1.456294513461503
+Root Mean Squared Error: 1.2067702819764428
+Mean Absolute Error: 0.5410310647755027
+--------------------------------------------
+Support Vector Regressor:
+Mean Squared Error: 27.309410533195557
+Root Mean Squared Error: 5.225840653253365
+Mean Absolute Error: 1.225383489275338
+--------------------------------------------
+Multi Layer Perceptron Regressor:
+Mean Squared Error: 1.4458050053372236
+Root Mean Squared Error: 1.2024163194739264
+Mean Absolute Error: 0.5318601746428205
+--------------------------------------------
+Linear Regression:
+Mean Squared Error: 1.1874648731648023
+Root Mean Squared Error: 1.0897086184686264
+Mean Absolute Error: 0.4818642358376123
+--------------------------------------------
+Decision Tree Regressor:
+Mean Squared Error: 1.9091808407150217
+Root Mean Squared Error: 1.3817311028977461
+Mean Absolute Error: 0.6434139131664116
+--------------------------------------------
+Random Forest Regressor:
+Mean Squared Error: 1.456294513461503
+Root Mean Squared Error: 1.2067702819764428
+Mean Absolute Error: 0.5410310647755027
+--------------------------------------------
+Support Vector Regressor:
+Mean Squared Error: 27.309410533195557
+Root Mean Squared Error: 5.225840653253365
+Mean Absolute Error: 1.225383489275338
+--------------------------------------------
+Multi Layer Perceptron Regressor:
+Mean Squared Error: 1.439772483936208
+Root Mean Squared Error: 1.1999051978953204
+Mean Absolute Error: 0.5446524564360526
+--------------------------------------------
