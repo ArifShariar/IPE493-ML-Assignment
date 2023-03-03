@@ -18,4 +18,4 @@ This repository contains codes for IPE 493 Assignment. The main task for this as
 
 
 ## Report and Performance
-Report and performance metrics can be found in the project reposi
+Report and performance metrics can be found in the project repository
